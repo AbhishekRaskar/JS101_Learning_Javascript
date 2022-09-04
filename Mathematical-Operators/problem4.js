@@ -1,0 +1,12 @@
+let one=1;
+two=2;
+two=4;
+three=3;
+three=9;
+four=4;
+four=12;
+five=5;
+five=10;
+six=6;
+six=12;
+console.log(one+two+three+four+five+six);
